@@ -1,0 +1,50 @@
+
+html
+{
+    background: cover;
+    background-image: url(../imgs/background.jpg);
+    font-size: 10px;
+}
+
+html, body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.playing
+{
+    border-color: #ffc600;
+    transform: scale(1.2);
+    box-shadow: red 0.15rem 0 1rem;
+    text-shadow: red 1rem 0 1rem;  
+    color: red;
+}
+
+.keys 
+{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.key
+{
+    border: 0.4rem solid;  
+    border-radius: 1.5rem;
+    border-color: white;
+    margin: 1rem;
+    font-size: 2rem;
+    padding: 1.5rem;
+    transition: all 0.3s ease ;
+}
+
+kbd
+{
+    display: block;
+    font-size: 2rem;
+    color: white;
+}
