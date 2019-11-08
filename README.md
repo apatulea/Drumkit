@@ -5,6 +5,7 @@
 #### *Credit: Wes Bos, https://javascript30.com*
 
 
-Github Pages link: 
+Github Pages link: https://apatulea.github.io/Drumkit/
+ 
 
 
